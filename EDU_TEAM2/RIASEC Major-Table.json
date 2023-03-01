@@ -1,0 +1,152 @@
+[
+ {
+   "Id": 1,
+   "RIASEC": "AC",
+   "Major Indo": ["Matematika", "Arsitektur", "Ilmu Komunikasi" , "Ilmu Sejarah"]
+ },
+ {
+   "Id": 2,
+   "RIASEC": "AE",
+   "Major Indo": ["Design Komunikasi Visual", "Design Interior", "Arsitektur"]
+ },
+ {
+   "Id": 3,
+   "RIASEC": "AI",
+   "Major Indo": ["Ilmu Psikologi", "Ilmu Komunikasi" , "Ilmu Sejarah" , "Antropologi" , "Hubungan Internasional"]
+ },
+ {
+   "Id": 4,
+   "RIASEC": "AR",
+   "Major Indo": ["Design Komunikasi Visual", "Design Interior", "Arsitektur", "Geografi"]
+ },
+ {
+   "Id": 5,
+   "RIASEC": "AS",
+   "Major Indo": ["Arsitektur" , "Antropologi"]
+ },
+ {
+   "Id": 6,
+   "RIASEC": "CA",
+   "Major Indo": ["Matematika", "Ilmu Sejarah", "Geografi", "Arsitektur", "Ilmu Komputer", "Teknik Komputer",  "Sistem Informasi", "Ilmu Komunikasi" , "Ilmu Sejarah"]
+ },
+ {
+   "Id": 7,
+   "RIASEC": "CE",
+   "Major Indo": ["Teknik Sipil", "Teknik Mesin", "Tekik Elektro", "Teknik Metalurgi dan Material", "Ilmu Komputer", "Teknik Industri", "Teknik Komputer", "Sistem Informasi" , "Ilmu Politik" , "Ekonomi" , "Manajemen"]
+ },
+ {
+   "Id": 8,
+   "RIASEC": "CI",
+   "Major Indo": ["Matematika", "Teknik Kimia", "Ilmu Komputer", "Ilmu Sejarah", "Fisika", "Kimia", "Teknik Komputer", "Sistem Informasi" , "Ilmu Sejarah" , "Ekonomi" , "Manajemen" , "Akuntansi"]
+ },
+ {
+   "Id": 9,
+   "RIASEC": "CR",
+   "Major Indo": ["Kimia", "Geografi", "Ilmu Komputer", "Teknik Komputer", "Sistem Informasi" , "Teknik Lingkungan" , "Manajemen"]
+ },
+ {
+   "Id": 10,
+   "RIASEC": "CS",
+   "Major Indo": ["Pendidikan Dokter",  "Pendidikan Dokter Gigi", "Ilmu Keperawatan", "Ilmu Kesehatan Masyarakat" , "Teknik Lingkungan" , "Kriminologi" , "Manajemen"]
+ },
+ {
+   "Id": 11,
+   "RIASEC": "EA",
+   "Major Indo": ["Ilmu Komunikasi" , "Manajemen"]
+ },
+ {
+   "Id": 12,
+   "RIASEC": "EC",
+   "Major Indo": ["Ilmu Kesehatan Masyarakat", "Ilmu Komunikasi" , "Teknik Lingkungan" , "Ekonomi" , "Manajemen"]
+ },
+ {
+   "Id": 13,
+   "RIASEC": "EI",
+   "Major Indo": ["Geografi", "Ilmu Kesehatan Masyarakat" , "Teknik Lingkungan" , "Ilmu Politik" , "Sosiologi" , "Ekonomi" , "Manajemen" , "Hubungan Internasional"]
+ },
+ {
+   "Id": 14,
+   "RIASEC": "ER",
+   "Major Indo": ["Manajemen"]
+ },
+ {
+   "Id": 15,
+   "RIASEC": "ES",
+   "Major Indo": ["Ilmu Kesehatan Masyarakat" , "Ilmu Politik" , "Hubungan Internasional"]
+ },
+ {
+   "Id": 16,
+   "RIASEC": "IA",
+   "Major Indo": ["Ilmu Sejarah"]
+ },
+ {
+   "Id": 17,
+   "RIASEC": "IC",
+   "Major Indo": ["Matematika", "Kimia", "Biologi", "Geografi", "Ilmu Komputer" , "Ilmu Sejarah" , "Psikologi" , "Ekonomi"]
+ },
+ {
+   "Id": 18,
+   "RIASEC": "IE",
+   "Major Indo": ["Geografi", "Ilmu Komunikasi" , "Psikologi" , "Ilmu Politik" , "Sosiologi" , "Ekonomi" , "Hubungan Internasional"]
+ },
+ {
+   "Id": 19,
+   "RIASEC": "IR",
+   "Major Indo": ["Kimia", "Biologi", "Geografi" , "Teknik Lingkungan" , "Antropologi"]
+ },
+ {
+   "Id": 20,
+   "RIASEC": "IS",
+   "Major Indo": ["Geografi", "Ilmu Kesehatan Masyarakat", "Ilmu Komunikasi" , "Ilmu Sejarah" , "Psikologi" , "Ilmu Politik" , "Kriminologi" , "Sosiologi" , "Antropologi" , "Ekonomi" , "Hubungan Internasional"]
+ },
+ {
+   "Id": 21,
+   "RIASEC": "RA",
+   "Major Indo": ["Arsitektur", "Ilmu Komunikasi" , "Teknik Lingkungan"]
+ },
+ {
+   "Id": 22,
+   "RIASEC": "RC",
+   "Major Indo": ["Ilmu Keperawatan" , "Teknik Lingkungan"]
+ },
+ {
+   "Id": 23,
+   "RIASEC": "RE",
+   "Major Indo": ["Teknik Lingkungan" , "Manajemen"]
+ },
+ {
+   "Id": 24,
+   "RIASEC": "RI",
+   "Major Indo": ["Biologi", "Geografi" , "Teknik Lingkungan" ]
+ },
+ {
+   "Id": 25,
+   "RIASEC": "RS",
+   "Major Indo": ["Ilmu Keperawatan", "Ilmu Kesehatan Masyarakat" , "Teknik Lingkungan"]
+ },
+ {
+   "Id": 26,
+   "RIASEC": "SA",
+   "Major Indo": ["Ilmu Komunikasi" , "Antropologi"]
+ },
+ {
+   "Id": 27,
+   "RIASEC": "SC",
+   "Major Indo": ["Ilmu Keperawatan", "Ilmu Kesehatan Masyarakat" , "Teknik Lingkungan" , "Kriminologi" , "Sosiologi" , "Ekonomi"]
+ },
+ {
+   "Id": 28,
+   "RIASEC": "SE",
+   "Major Indo": ["Ilmu Komunikasi" , "Ekonomi"]
+ },
+ {
+   "Id": 29,
+   "RIASEC": "SI",
+   "Major Indo": ["Geografi", "Ilmu Kesehatan Masyarakat" , "Psikologi" , "Ilmu Politik" , "Kriminologi" , "Sosiologi" , "Antropologi" , "Hubungan Internasional"]
+ },
+ {
+   "Id": 30,
+   "RIASEC": "SR",
+   "Major Indo": ["Ilmu Keperawatan" , "Teknik Lingkungan" , "Kriminologi"]
+ }
+]

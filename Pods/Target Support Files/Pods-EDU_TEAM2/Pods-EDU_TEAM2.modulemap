@@ -1,0 +1,6 @@
+module Pods_EDU_TEAM2 {
+  umbrella header "Pods-EDU_TEAM2-umbrella.h"
+
+  export *
+  module * { export * }
+}

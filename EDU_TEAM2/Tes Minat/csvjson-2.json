@@ -1,0 +1,254 @@
+[
+  {
+    "id_soal": 1,
+    "english": "I like to work on cars",
+    "indo": "Saya suka bekerja dengan mobil",
+    "indikator": "R"
+  },
+  {
+    "id_soal": 2,
+    "english": "I like to do puzzles",
+    "indo": "Saya suka mengerjakan teka-teki",
+    "indikator": "I"
+  },
+  {
+    "id_soal": 3,
+    "english": "I am good at working independently",
+    "indo": "Saya pandai bekerja secara mandiri",
+    "indikator": "A"
+  },
+  {
+    "id_soal": 4,
+    "english": "I like to work in teams",
+    "indo": "Saya suka bekerja dalam tim",
+    "indikator": "S"
+  },
+  {
+    "id_soal": 5,
+    "english": "I am an ambitious person, I set goals for myself",
+    "indo": "Saya orang yang ambisius, saya menetapkan tujuan untuk diri saya sendiri",
+    "indikator": "E"
+  },
+  {
+    "id_soal": 6,
+    "english": "I like to organize things, (files, desks/offices)",
+    "indo": "Saya suka mengatur sesuatu (file, meja/kantor)",
+    "indikator": "C"
+  },
+  {
+    "id_soal": 7,
+    "english": "I like to build things",
+    "indo": "Saya suka membangun sesuatu",
+    "indikator": "R"
+  },
+  {
+    "id_soal": 8,
+    "english": "I like to read about art and music",
+    "indo": "Saya suka membaca tentang seni dan musik",
+    "indikator": "A"
+  },
+  {
+    "id_soal": 9,
+    "english": "I like to have clear instructions to follow",
+    "indo": "Saya suka memiliki instruksi yang jelas untuk diikuti",
+    "indikator": "C"
+  },
+  {
+    "id_soal": 10,
+    "english": "I like to try to influence or persuade people",
+    "indo": "Saya suka mencoba mempengaruhi atau membujuk orang lain",
+    "indikator": "E"
+  },
+  {
+    "id_soal": 11,
+    "english": "I like to do experiments",
+    "indo": "Saya suka melakukan eksperimen",
+    "indikator": "I"
+  },
+  {
+    "id_soal": 12,
+    "english": "I like to teach or train people",
+    "indo": "Saya suka mengajar atau melatih orang lain",
+    "indikator": "S"
+  },
+  {
+    "id_soal": 13,
+    "english": "I like trying to help people solve their problems",
+    "indo": "Saya suka membantu orang lain memecahkan masalah mereka",
+    "indikator": "S"
+  },
+  {
+    "id_soal": 14,
+    "english": "I like to take care of animals",
+    "indo": "Saya suka memelihara hewan",
+    "indikator": "R"
+  },
+  {
+    "id_soal": 15,
+    "english": "I wouldn’t mind working 8 hours per day in an office",
+    "indo": "Saya tidak keberatan bekerja 8 jam per hari di kantor",
+    "indikator": "C"
+  },
+  {
+    "id_soal": 16,
+    "english": "I like selling things",
+    "indo": "Saya suka menjual barang",
+    "indikator": "E"
+  },
+  {
+    "id_soal": 17,
+    "english": "I enjoy creative writing",
+    "indo": "Saya senang menulis secara kreatif",
+    "indikator": "A"
+  },
+  {
+    "id_soal": 18,
+    "english": "I enjoy science",
+    "indo": "Saya menikmati sains",
+    "indikator": "I"
+  },
+  {
+    "id_soal": 19,
+    "english": "I am quick to take on new responsibilities",
+    "indo": "Saya cepat mengambil tanggung jawab baru",
+    "indikator": "E"
+  },
+  {
+    "id_soal": 20,
+    "english": "I am interested in healing people",
+    "indo": "Saya tertarik untuk menyembuhkan orang lain",
+    "indikator": "S"
+  },
+  {
+    "id_soal": 21,
+    "english": "I enjoy trying to figure out how things work",
+    "indo": "Saya senang mencari tahu bagaimana segala sesuatu bekerja",
+    "indikator": "I"
+  },
+  {
+    "id_soal": 22,
+    "english": "I like putting things together or assembling things",
+    "indo": "Saya suka menyatukan sesuatu atau merakit sesuatu",
+    "indikator": "R"
+  },
+  {
+    "id_soal": 23,
+    "english": "I am a creative person",
+    "indo": "Saya orang yang kreatif",
+    "indikator": "A"
+  },
+  {
+    "id_soal": 24,
+    "english": "I pay attention to details",
+    "indo": "Saya memperhatikan detail",
+    "indikator": "C"
+  },
+  {
+    "id_soal": 25,
+    "english": "I like to do filing or typing",
+    "indo": "Saya suka melakukan pengarsipan atau mengetik",
+    "indikator": "C"
+  },
+  {
+    "id_soal": 26,
+    "english": "I like to analyze things (problems/ situations)",
+    "indo": "Saya suka menganalisis sesuatu (masalah/sesuatu)",
+    "indikator": "I"
+  },
+  {
+    "id_soal": 27,
+    "english": "I like to play instruments or sing",
+    "indo": "Saya suka memainkan alat musik atau bernyanyi",
+    "indikator": "A"
+  },
+  {
+    "id_soal": 28,
+    "english": "I enjoy learning about other cultures",
+    "indo": "Saya senang belajar tentang budaya lain",
+    "indikator": "S"
+  },
+  {
+    "id_soal": 29,
+    "english": "I would like to start my own business",
+    "indo": "Saya ingin memulai bisnis saya sendiri",
+    "indikator": "E"
+  },
+  {
+    "id_soal": 30,
+    "english": "I like to cook",
+    "indo": "Saya suka memasak",
+    "indikator": "R"
+  },
+  {
+    "id_soal": 31,
+    "english": "I like acting in plays",
+    "indo": "Saya suka berakting dalam drama",
+    "indikator": "A"
+  },
+  {
+    "id_soal": 32,
+    "english": "I am a practical person",
+    "indo": "Saya orang praktis",
+    "indikator": "R"
+  },
+  {
+    "id_soal": 33,
+    "english": "I like working with numbers or charts",
+    "indo": "Saya suka bekerja dengan angka atau grafik",
+    "indikator": "I"
+  },
+  {
+    "id_soal": 34,
+    "english": "I like to get into discussions about issues",
+    "indo": "Saya suka berdiskusi tentang masalah",
+    "indikator": "S"
+  },
+  {
+    "id_soal": 35,
+    "english": "I am good at keeping records of my work",
+    "indo": "Saya pandai menyimpan catatan pekerjaan saya",
+    "indikator": "C"
+  },
+  {
+    "id_soal": 36,
+    "english": "I like to lead",
+    "indo": "Saya suka memimpin",
+    "indikator": "E"
+  },
+  {
+    "id_soal": 37,
+    "english": "I like working outdoors",
+    "indo": "Saya suka bekerja di luar ruangan",
+    "indikator": "R"
+  },
+  {
+    "id_soal": 38,
+    "english": "I would like to work in an office",
+    "indo": "Saya ingin bekerja di kantor",
+    "indikator": "C"
+  },
+  {
+    "id_soal": 39,
+    "english": "I’m good at math",
+    "indo": "Saya pandai dalam matematika",
+    "indikator": "I"
+  },
+  {
+    "id_soal": 40,
+    "english": "I like helping people",
+    "indo": "Saya suka membantu orang lain",
+    "indikator": "S"
+  },
+  {
+    "id_soal": 41,
+    "english": "I like to draw",
+    "indo": "Saya suka menggambar",
+    "indikator": "A"
+  },
+  {
+    "id_soal": 42,
+    "english": "I like to give speeches",
+    "indo": "Saya suka memberikan pidato",
+    "indikator": "E"
+  }
+]
